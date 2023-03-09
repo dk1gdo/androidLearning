@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Try</string>
+    <string name="title_general_activity">Список дел</string>
+    <string name="image_description_avatar">Изображение аватара</string>
+    <string name="title_task_first">Вечерний поход в кино</string>
+    <string name="description_task_first">Идем в кино с коллегами!</string>
+    <string name="task_date">10.03.2023</string>
+    <string name="task_time">19:40</string>
+    <string name="add_task">Добавить задачу</string>
+</resources>
